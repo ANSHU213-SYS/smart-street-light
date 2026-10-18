@@ -30,7 +30,7 @@ To learn basic electronics, sensor interfacing, Arduino programming, and automat
 
 Simulation
 
-[https://wokwi.com/projects/478225041518333953]
+https://wokwi.com/projects/478225041518333953
 
 Author
 
